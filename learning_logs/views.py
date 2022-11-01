@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-from learning_logs.models import Topic
+from .models import Topic
 
 
 # Create your views here.
