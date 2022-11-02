@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
 
 from .models import Topic
-from .templates.forms import TopicForm
+from learning_logs.forms import TopicForm
 
 
 # Create your views here.
